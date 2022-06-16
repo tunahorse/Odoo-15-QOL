@@ -1,0 +1,24 @@
+# A series of scripts for Odoo 15, to make life easier
+
+A collection of scripts/hacks I have made to make Odoo a bit easier to use in day-to-day operations.  
+
+## Breakdown
+
+
+
+## Automated Actions 
+
+Under automate_actions
+
+```
+### marks transfer with sales origins
+model_origins.py
+```
+
+## On-Demand reports
+
+## Telegram API 
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
