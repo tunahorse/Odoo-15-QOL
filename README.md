@@ -4,11 +4,18 @@ A collection of scripts/hacks I have made to make Odoo a bit easier to use in da
 
 ## Breakdown
 
+## Scripts 
+Under /scripts
+
+```
+### Find records with the same name, should not be possible but at times Odoo allows it. In this case using sales.order model. 
+find_duplicates.py
+```
 
 
 ## Automated Actions 
 
-Under automate_actions
+Under /automate_actions
 
 ```
 ### marks transfer with sales origins
